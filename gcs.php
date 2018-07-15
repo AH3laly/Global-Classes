@@ -19,4 +19,3 @@ require_once 'classes/gc_htmlcontroller.php';
 require_once 'classes/gc_datastructure.php';
 require_once 'classes/gc_css.php';
 
-?>
