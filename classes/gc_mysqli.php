@@ -1,7 +1,7 @@
 <?php
 /*
-* Author: Abdelrahman Mohamed
-* Contact: < Abdo.Tasks@Gmail.Com , https://Github.com/abd0m0hamed >
+* Author: Abdelrahman Helaly
+* Contact: < AH3laly@gmail.com , https://Github.com/AH3laly >
 * Project: GC (for Global Classes). 
 * Description: Simple library to do some important tasks.
 * License: Science not for Monopoly.
@@ -88,7 +88,7 @@ class GCmysqli{
      * $tablename: Table name to operate with,
      * $columns: columns to get,
      * $joins: Join commands Ex: left join table1 on table1.field1 = table2.field2 left join table3 on table3.field3 = table1.field2.
-     * $where: Condition will be executed if this condition occurred Ex: id='1' or name like '%Abdo Mohamed%',
+     * $where: Condition will be executed if this condition occurred Ex: id='1' or name like '%Abdelrahman Helaly%',
      * $rows_limit: set limit for returned results, Ex: 0,10 to get ten results starting form row 0.
      * $rows_order: order returned results Ex1: id desc to order by id descending, Ex2: name asc to order by name ascending,
      * $idkey: column name to be set as array key.

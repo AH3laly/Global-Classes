@@ -1,7 +1,7 @@
 <?php
 /*
-* Author: Abdelrahman Mohamed
-* Contact: < Abdo.Tasks@Gmail.Com , https://Github.com/abd0m0hamed >
+* Author: Abdelrahman Helaly
+* Contact: < AH3laly@gmail.com , https://Github.com/AH3laly >
 * Project: GC (for Global Classes). 
 * Description: Simple library to do some important tasks.
 * License: Science not for Monopoly.
